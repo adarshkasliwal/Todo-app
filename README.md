@@ -1,7 +1,6 @@
 # Todo App
 
-![Todo App Screenshot](src/assets/TodoUI.png)
-![Todo App Screenshot](src/assets/todo.png) 
+![Todo App Screenshot](src/assets/TodoUI.png) 
 
 ## Overview
 
