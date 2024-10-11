@@ -1,6 +1,6 @@
 # Todo App
 
-![Todo App Screenshot](assets/todo UI) 
+![Todo App Screenshot](assets/Todo UI) 
 
 ## Overview
 
